@@ -1,0 +1,2 @@
+- There is a build of kernel_scal_hbm.cpp targeting the xilinx u280 xdma fpga.
+- Use make host to build the host executable
