@@ -14,7 +14,7 @@ help::
 
 HOST_ARCH := x86
 PLATFORM := xilinx_u280_xdma_201920_3
-PROJ_ROOT := $(PWD)/..
+PROJ_ROOT := $(PWD)
 BUILD_DIR := $(PWD)/build
 EXECUTABLE := host
 TARGET := sw_emu
